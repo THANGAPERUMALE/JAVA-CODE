@@ -1,4 +1,4 @@
-package com.MultipleInheritence;
+package com.multipleInheritence;
 
 public interface Car {
 	void speedOfCar();
