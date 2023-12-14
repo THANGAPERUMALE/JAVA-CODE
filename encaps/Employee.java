@@ -1,4 +1,4 @@
-package com.encapsulation;
+package com.encaps;
 public class Employee {
 	private int id;
 	String name;
