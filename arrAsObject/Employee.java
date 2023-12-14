@@ -1,4 +1,4 @@
-package com.arrayAsObject;
+package com.arrAsObject;
 
 public class Employee {
 	int id;
