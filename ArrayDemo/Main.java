@@ -1,4 +1,4 @@
-package com.ArrayDemo;
+package com.arrDemo;
 
 public class Main {
 
